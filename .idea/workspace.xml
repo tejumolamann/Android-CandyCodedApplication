@@ -9,12 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="Override onOptionsItemSelected(MenuItem item)&#10;Return a Call to the Super Class Method&#10;Create the Intent for Launching the InfoActivity&#10;Use startActivity() to Launch the InfoActivity">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,18 +190,26 @@
       <option name="project" value="LOCAL" />
       <updated>1602189300475</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created method createMapIntent() &#10;&#10;Made textView address clickable and added createMapIntent() for onclick">
+      <created>1602191165883</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602191165883</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Override onOptionsItemSelected(MenuItem item)&#10;Return a Call to the Super Class Method&#10;Create the Intent for Launching the InfoActivity&#10;Use startActivity() to Launch the InfoActivity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Override onOptionsItemSelected(MenuItem item)&#10;Return a Call to the Super Class Method&#10;Create the Intent for Launching the InfoActivity&#10;Use startActivity() to Launch the InfoActivity" />
+    <MESSAGE value="Created method createMapIntent() &#10;&#10;Made textView address clickable and added createMapIntent() for onclick" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created method createMapIntent() &#10;&#10;Made textView address clickable and added createMapIntent() for onclick" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="200" y="0" key="CommitChangelistDialog2" timestamp="1602190778566">
+    <state x="200" y="0" key="CommitChangelistDialog2" timestamp="1602191164877">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="200" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602190778566" />
+    <state x="200" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602191164877" />
     <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1602191010148">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -223,9 +226,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602191010148" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602190475837">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602191181422">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602190475837" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602191181422" />
   </component>
 </project>
